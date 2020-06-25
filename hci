@@ -4,18 +4,17 @@
 StdID | Name
 ------------ | -------------
 **62558** | **Ehsan Sheikh** <!--this is the group leader in bold-->
-62367 | Bilal Sheikh 
+**63004** | **Shaikh Bilal Ahmed** 
 <!-- Replace name and student ids with acutally group member names and ids-->
 ## Domain Description ##
 <!--Replace this text with the description the domain you have choose. Give reason behind your choice. Explain why you were motivated etc. etc.-->
-We have selected educational domain in hci project we have facing many problem in laptop/PC. If we want to use more than one social app On laptop/PC So we have to open a lot of web pages Because of which laptop lag
-If we want to listen to music You separately Have to open media player.
-If we have to control  computer So everything has to be opened with double click.
-We spend to many  time on social media, due to which time is not estimated time wasting. 
-If we Want to do music and development together That is also the issue. 
-we have motivat to solve this issue you can control laptop on urdu command .see the perivous twit watch without inernet ,send auto tweet.
-To solve all these problem Need a good UI From where you can control everything comfortably and open many application only one  platform.
-
+We have selected technology domain in hci project we have facing many problem in everyday life. Artificial intelligence is making our world into the new era that everyone wants
+Nowadays computer engineer and scientist work in robotics and want less human interaction to make their life easier and smarter than ever
+In any business or operation, there are already many large companies that have turned humans into robots, and now these companies have doubled their revenue
+These companies want every next businessman to grow their business like themselves, want to turn their business into human free, and want a hard working robot worker
+Be efficient with a zero percent error rate and don't need to pay any salaries, get full services from them. In the past it was a dream but now the dream is coming
+Scientists predict they will achieve Artificial General Intelligence (AGI) by the end of the decade, allowing machines and robots to follow any action
+Created by humans and acting like humans.
 ### Task 1: Wash clothes: ###
 This feature is allowed user to set the timer and speed and also allow user to stop the robot in case of emergency 
 
@@ -38,6 +37,6 @@ We are using visual studio software through C# lanuage for making this desktop a
 
 ## References ##
 Framework and UI designing ideas getting from these websites. dekh ker cahnge kr du
-* #### -https: ####
-* #### -https: ####
-* #### -https: ####
+* #### -https: https://search.muz.li/inspiration/mobile-app-design-inspiration/ ####
+* #### -https:https://abduzeedo.com/litter-robot-website-uiux ####
+* #### -https: https://ideaing.com/ideas/the-best-robot-personal-assistants/ ####

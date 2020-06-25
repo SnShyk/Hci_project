@@ -1,1 +1,43 @@
 
+# HCI 104497: Smart Home Robot #
+### PROJECT MEMBERS ###
+StdID | Name
+------------ | -------------
+**62558** | **Ehsan Sheikh** <!--this is the group leader in bold-->
+62367 | Bilal Sheikh 
+<!-- Replace name and student ids with acutally group member names and ids-->
+## Domain Description ##
+<!--Replace this text with the description the domain you have choose. Give reason behind your choice. Explain why you were motivated etc. etc.-->
+We have selected educational domain in hci project we have facing many problem in laptop/PC. If we want to use more than one social app On laptop/PC So we have to open a lot of web pages Because of which laptop lag
+If we want to listen to music You separately Have to open media player.
+If we have to control  computer So everything has to be opened with double click.
+We spend to many  time on social media, due to which time is not estimated time wasting. 
+If we Want to do music and development together That is also the issue. 
+we have motivat to solve this issue you can control laptop on urdu command .see the perivous twit watch without inernet ,send auto tweet.
+To solve all these problem Need a good UI From where you can control everything comfortably and open many application only one  platform.
+
+### Task 1: Wash clothes: ###
+This feature is allowed user to set the timer and speed and also allow user to stop the robot in case of emergency 
+
+### Task 2: Wash Dishes ###
+This will allow user to wash dishes with the help of robot b  setting speed, timer  and select dish type  also have stop option
+### Task 3: Clean floor ###
+This open is ued to clean the floor
+### Task 4: Take order###
+
+Robots will take order by using this option also user set the manual option and move robot manually by using joystick and also set robot to auto 
+
+### Task 5: Serve food  ###
+User can also serve food through robot using this option by selecting table number and also user move robot manually by using joystick  
+
+
+
+
+## Prospect Technology Use ##
+We are using visual studio software through C# lanuage for making this desktop app. We also used bunifuframework and metroframforwork making interactive GUI. There are a lot of things we can't do on mobile which is why we choose desktop software. User will do all its work easily within one package.
+
+## References ##
+Framework and UI designing ideas getting from these websites. dekh ker cahnge kr du
+* #### -https: ####
+* #### -https: ####
+* #### -https: ####

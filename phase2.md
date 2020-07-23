@@ -76,7 +76,8 @@ A.	In my opinion it will help a lot for house wives and for those who are frustr
 Fatima	
 ## Age:	##
 28
-## Job: ##		student 
+## Job: ##		
+student 
 ## Hobbies: ##
 reading books
 

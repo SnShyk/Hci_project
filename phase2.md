@@ -15,7 +15,7 @@ In this task we have to select feature what we want to do.Basically it is our ma
 In this task we can wash clothes through our robot.
 
 ## Need Finding ##
-1) In this task we can select our different task from dropdown menu.We can make buttons for this but it is not good UI design technique so we choose drop down option in our app. Peoples can easily select from drop down option.
+1)In this task we can select our different task from dropdown menu.We can make buttons for this but it is not good UI design technique so we choose drop down option in our app. Peoples can easily select from drop down option.
 
 2)In this task we can wash clothes through our robot by using this app.we search alot of designs but we choose a simple and easy to use design like there is a timer for washing clothes you can set the time in a text box.We can set speed through speed regulator.It is very easy to use.We can turn on auto mode and there is start and stop button.
 

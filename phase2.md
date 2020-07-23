@@ -20,13 +20,13 @@ These are 2 tasks that we implement in our application .
 ## Design Alternative ## 
 ## Personas ##
 ## persona 1 ##
-## Name:##		
+## Name: ##		
 Zeeshan Mirza
 ## Age:	## 	
 30
 ## Job: ##		
 Electrical Engineer
-## Hobbies:##          
+## Hobbies: ##          
 playing cricket
 ## Goals ##
 To gain new skills and explore the world around him, by build things and takings things apart

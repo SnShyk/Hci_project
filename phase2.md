@@ -9,8 +9,10 @@ StdID | Name
 ## Task Finalization ##
 
 These are 2 tasks that we implement in our application .
-## Feature Selecting: In this task we have to select feature what we want to do.Basically it is our main screen. ##
-## Wash Clothes: In this task we can wash clothes through our robot.##
+## Feature Selecting: ## 
+In this task we have to select feature what we want to do.Basically it is our main screen. 
+## Wash Clothes: ##
+In this task we can wash clothes through our robot.
 
 ## Need Finding ##
 1) In this task we can select our different task from dropdown menu.We can make buttons for this but it is not good UI design technique so we choose drop down option in our app. Peoples can easily select from drop down option.

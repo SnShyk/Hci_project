@@ -23,7 +23,7 @@ Many other questions.
 4) Based on those question finalize at-least 2 designs.
 
 ## Prototyping ##
-Develop low fidelity prototypes for each of the 2 disgns selected above. 
+Develop low fidelity prototypes for each of the 2 disgns selected above
 
 
 ## Evaluation ##

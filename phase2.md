@@ -305,7 +305,8 @@ A.	Yes, this application is helpful for everyone and might be entertaining for t
 4) Based on those question finalize at-least 2 designs.
 
 ## Prototyping ##
-Develop low fidelity prototypes for each of the 2 disgns selected above
+![WhatsApp Image 2020-07-24 at 5 21 07 PM](https://user-images.githubusercontent.com/42110216/88390712-40ab0f00-cdd2-11ea-8f0a-815b7748cbb8.jpeg)
+![WhatsApp Image 2020-07-24 at 5 21 29 PM](https://user-images.githubusercontent.com/42110216/88390719-443e9600-cdd2-11ea-8297-43c89db3b0ef.jpeg)
 
 
 ## Evaluation ##

@@ -286,7 +286,19 @@ A.	Yes, this application is helpful for everyone and might be entertaining for t
 ●	Use low Battery consumption
 
 ## Scenarios ##
+
 ## Story Board ##
+
+![story board 1](https://user-images.githubusercontent.com/42110216/88389425-f1fc7580-cdcf-11ea-9e31-a07ccb8d3c06.png)
+![story board 3](https://user-images.githubusercontent.com/42110216/88389435-f45ecf80-cdcf-11ea-807a-94cf985f640f.png)
+![story board 4](https://user-images.githubusercontent.com/42110216/88389454-fb85dd80-cdcf-11ea-8df9-5f617ca0f088.png)
+![story board 5](https://user-images.githubusercontent.com/42110216/88389459-fd4fa100-cdcf-11ea-93ab-0473db45bbe3.png)
+
+
+
+
+
+
 - 4 scenarios
 - 4 storyboards
 3) Brainstorm few questions from perspective of each persona in each scenario and story.  

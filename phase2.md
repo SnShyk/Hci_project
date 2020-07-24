@@ -20,6 +20,12 @@ In this task we can wash clothes through our robot.
 2)In this task we can wash clothes through our robot by using this app.we search alot of designs but we choose a simple and easy to use design like there is a timer for washing clothes you can set the time in a text box.We can set speed through speed regulator.It is very easy to use.We can turn on auto mode and there is start and stop button.
 
 ## Design Alternative ## 
+![WhatsApp Image 2020-07-24 at 4 09 36 PM (2)](https://user-images.githubusercontent.com/42110216/88386698-63392a00-cdca-11ea-9f19-658d94a9ce74.jpeg)
+![WhatsApp Image 2020-07-24 at 4 09 36 PM (3)](https://user-images.githubusercontent.com/42110216/88386705-66341a80-cdca-11ea-84dd-92d8ed96022e.jpeg)
+![WhatsApp Image 2020-07-24 at 4 09 36 PM (4)](https://user-images.githubusercontent.com/42110216/88386711-692f0b00-cdca-11ea-8e62-2bb53d1074b4.jpeg)
+![WhatsApp Image 2020-07-24 at 4 09 36 PM (5)](https://user-images.githubusercontent.com/42110216/88386715-6c29fb80-cdca-11ea-850a-d16af53d6a9b.jpeg)
+![WhatsApp Image 2020-07-24 at 4 09 36 PM (6)](https://user-images.githubusercontent.com/42110216/88386721-6f24ec00-cdca-11ea-8eb6-649ad9b60c46.jpeg)
+
 ## Personas ##
 ## persona 1 ##
 ## Name: ##		

@@ -3,7 +3,7 @@
 ### PROJECT MEMBERS ###
 StdID | Name
 ------------ | -------------
-**62558** | **Ehsan Sheikh** <!--this is the group leader in bold-->
+**62558** | **Ahsan Sheikh** <!--this is the group leader in bold-->
  63004 | Shaikh Bilal Ahmed
 
 ## Task Finalization ##

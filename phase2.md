@@ -320,7 +320,7 @@ In this case user belongs to lawyer profession . And age wise to be old. More di
 
 
 
-- 4 scenarios
+- 4 scenario
 - 4 storyboards
 3) Brainstorm few questions from perspective of each persona in each scenario and story.  
 4) Based on those question finalize at-least 2 designs.

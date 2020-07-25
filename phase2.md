@@ -13,7 +13,6 @@ These are 2 tasks that we implement in our application .
 In this task we have to select feature what we want to do. Basically it is our main screen. 
 ### Wash Clothes: ###
 In this task we can wash clothes through our robot.
-
 ## Need Finding ##
  1)In this task we can select our different task from dropdown menu.We can make buttons for this but it is not good UI design technique so we choose drop down option in our app. Peoples can easily select from drop down option. 
 
@@ -27,6 +26,7 @@ In this task we can wash clothes through our robot.
 ![WhatsApp Image 2020-07-24 at 4 09 36 PM (6)](https://user-images.githubusercontent.com/42110216/88386721-6f24ec00-cdca-11ea-8eb6-649ad9b60c46.jpeg)
 
 # Personas #
+
 ## persona 1 ##
 ### Name: ###		
 Zeeshan Mirza

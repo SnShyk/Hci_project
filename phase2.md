@@ -291,6 +291,10 @@ A.	Yes, this application is helpful for everyone and might be entertaining for t
 In this Case 1st time user see the application and shocked that. This Application is controlled the robot ? because user doesn’t used this type of application. 1st time open this application by user is difficult because user used first time this application.
 Zeeshan mirza working on technical support. As compare to other user zeeshan mirza used easily this application. And attracting the user this application is multiple theme because every person think different to other user. And popup notification show to notification about the robot working. 
 
+### Scenario 2 :- ###
+
+In this Case User “Fatima” is well educated women. Completed graduation and very active to Social Media and awareness to anything. And to know about technologies. And easy to learn any type of technology. And Fatima thinking different to other users. In this opinion only update 1 thing. Application used low battery consumption because android used feel free to absorb the battery. Fatima opinion this application is very helpful in future.
+
 ## Story Board ##
 
 ![story board 1](https://user-images.githubusercontent.com/42110216/88389425-f1fc7580-cdcf-11ea-9e31-a07ccb8d3c06.png)

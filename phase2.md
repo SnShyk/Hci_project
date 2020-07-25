@@ -178,6 +178,61 @@ A.	Maybe helpful for lazy peoples
 ●	compatibility issues
 ●	Application crashes 
 
+ ## Persona 4 ##
+ ### Name: ###
+ Bakhtiyar	
+### Age: ### 
+26
+### Job: ###
+Business 
+### Hobbies: ###
+playing card, football
+### Goals ###
+●	I enjoyed thinking outside of the box 
+●	Want to make a name for myself
+
+### Frustrations ###
+●	Explanation is hard word 
+●	Advertisement while watching video
+### Bio ###
+Bakhtiyar is social active person which love to post any useful information on social media. He knows about computer technologies he has a problem solver personality
+User Review
+Q1. Do you know any home controlling robot application?
+A.	Yes, I know an application which can control robots but not know any home control robot application 
+
+Q2. Are you using any home robot controlling application?
+A.	No not using any application.
+
+Q3. Which type of application you expected?
+A.	If there is an application so the application must use simple GUI and all basic function to control a robot and also have live recording option by which we can easily track robot's current location 
+
+Q4. Which type of feature you want that application must have?
+●	Application will be secure 
+●	Application use less power 
+●	Robots sync properly with application
+●	Robots work according to application's command 
+●	Robot listen user voice command and work accordingly 
+
+Q5. Will home robot application be helpful?
+A.	Yes, off course if this application is launched there are many people using it and this application help them and relax them 
+
+### Problems ###
+●	Complex GUI
+●	Robots have not any live update  
+●	Use more battery power 
+
+### Suggestion ###
+●	GUI is must be simple 
+●	Robots have live camera option
+●	Robots will notify when task completed
+●	Application must have separate controller for each robot
+●	robots understand voice command 
+### Feedback ###
+●	application use proper color 
+●	configure with robot
+●	view robot location 
+●	application show notification
+
 
 ## Scenarios ##
 ### Scenario 1 :- ###

@@ -80,7 +80,7 @@ A.	In my opinion it will help a lot for house wives and for those who are frustr
 
 ### Name: ###
 Fatima	
-### Age:###
+### Age: ###
 28
 ### Job: ###		
 student 
@@ -128,6 +128,55 @@ A.	Yes, this will be helpful in future
 ●	application must have any live coverage option
 ●	runs on any device such as tablets, ios, android 
 
+## persona 3 ##
+
+### Name: ###
+Kamran	
+### Age: ###
+45
+### Job: ###
+Business 
+### Hobbies: ###
+cooking
+### Goals ###
+●	A task that need to be complete 
+●	A life goal to be reached   
+### Frustrations ###
+●	The obstacle that prevent from achieving their goal
+●	The product or service that currently not exits 
+                                                                                     
+### Bio ###
+Kamran has his own business he run business on his own he is not use application very much he is simple and want every-thing simple and easy to use he is not aware with technologies too much  
+User Review about home control robot application
+Q1. Do you know any home controlling robot application?
+A.	No, I don’t know about it
+ 
+Q2. Are you using any home robot controlling application?
+A.	No not using any application about home controlling application.
+
+Q3. Which type of application you expected?
+A.	Application have all controls which we need to control robots 
+
+Q4. Which type of feature you want that application must have?
+A.	Application will install in any phones and use low battery consumption 
+
+Q5. Will home robot application be helpful?
+A.	Maybe helpful for lazy peoples 
+
+### Problems ###
+●	Hard GUI
+●	Robot did not cook
+●	Voice command not working 
+●	Application crashes 
+### Suggestion ###
+●	application have simple interface
+●	robots will help him while he is cooking
+●	robots understand voice command 
+●	application runs smoothly
+### Feedback ###
+●	application must use proper formatting
+●	compatibility issues
+●	Application crashes 
 
 
 ## Scenarios ##

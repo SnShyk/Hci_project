@@ -10,7 +10,7 @@ StdID | Name
 
 These are 2 tasks that we implement in our application .
 ### Feature Selecting: ### 
-In this task we have to select feature what we want to do.Basically it is our main screen. 
+In this task we have to select feature what we want to do. Basically it is our main screen. 
 ### Wash Clothes: ###
 In this task we can wash clothes through our robot.
 

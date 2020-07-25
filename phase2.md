@@ -76,6 +76,60 @@ A.	In my opinion it will help a lot for house wives and for those who are frustr
 ●	robots will sync automatically when application start
 ●	robots understand voice command 
 
+## persona 2 ##
+
+### Name: ###
+Fatima	
+### Age:###
+28
+### Job: ###		
+student 
+### Hobbies: ###
+reading books
+
+### Goals ###
+●	To measure multiple aspects of life more scientifically 
+●	Gather more information which help her to start good career  
+### Frustrations ###
+●	Does not want to wait long in queues 
+●	Does not want slow internet 
+                                                                                       
+### Bio ###
+Fatima is a master level student she is not do any job yet, she is very active in social media and aware about technologies and quick learner  
+### User review ###
+Q1. Do you know any home controlling robot application?
+A.	No, I don’t think that there is any home robot application is available
+
+Q2. Are you using any home robot controlling application?
+A.	Right now, not using any application which can control robot but want to use in future. 
+
+Q3. Which type of application you expected?
+A.	Application control robot efficiently and easy to use 
+
+Q4. Which type of feature you want that application must have?
+A.	Application automatically sync with robots; application use low battery consumption.
+
+Q5. Will home robot application be helpful?
+A.	Yes, this will be helpful in future 
+ 
+  ### Problems ###
+●	Take long time to start 
+●	Problem with syncing robots
+●	Robots not responsive 
+### Suggestion ###
+●	application take less time to start 
+●	application works efficiently with robots
+●	robots are highly responsive 
+●	robots' proper sync with give commands
+●	application must be password protected 
+●	chatting with robots
+### Feedback ### 
+●	application not use more power consumption
+●	application must have any live coverage option
+●	runs on any device such as tablets, ios, android 
+
+
+
 ## Scenarios ##
 ### Scenario 1 :- ###
 

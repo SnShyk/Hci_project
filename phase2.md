@@ -316,9 +316,6 @@ In this case user belongs to lawyer profession . And age wise to be old. More di
 ![story board 5](https://user-images.githubusercontent.com/42110216/88389459-fd4fa100-cdcf-11ea-93ab-0473db45bbe3.png)
 
 
- 
-4) Based on those question finalize at-least 2 designs.
-
 ## Prototyping ##
 ![WhatsApp Image 2020-07-24 at 5 21 07 PM](https://user-images.githubusercontent.com/42110216/88390712-40ab0f00-cdd2-11ea-8f0a-815b7748cbb8.jpeg)
 ![WhatsApp Image 2020-07-24 at 5 21 29 PM](https://user-images.githubusercontent.com/42110216/88390719-443e9600-cdd2-11ea-8297-43c89db3b0ef.jpeg)

@@ -299,6 +299,13 @@ In this Case User “Fatima” is well educated women. Completed graduation and 
 
 In this case “kamran” is businessman and invest time in own business. Not update yet any type of technology. This user attract this application Is very difficult because user less time to used this type of application. In user opinion this application tools is to be used easily to user. And this type of user used to voice controller to control robot and interface is simple and application running Smoothly.
 
+### Scenario 4 :- ###
+
+In this case user belongs to lawyer profession . And age wise to be old. More difficult task to this type of user is attract this type of application. AS a application developer many options add this application to this type of user because user not interested any type of technology application. 
+1) Add option to demo video to used this application.
+2)Voice command to control robot.
+3) Add many theme and user selected choice.
+
 ## Story Board ##
 
 ![story board 1](https://user-images.githubusercontent.com/42110216/88389425-f1fc7580-cdcf-11ea-9e31-a07ccb8d3c06.png)

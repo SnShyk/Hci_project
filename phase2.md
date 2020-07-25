@@ -286,6 +286,10 @@ A.	Yes, this application is helpful for everyone and might be entertaining for t
 ●	Use low Battery consumption
 
 ## Scenarios ##
+## Scenario 1 ##
+
+In this Case 1st time user see the application and shocked that. This Application is controlled the robot ? because user doesn’t used this type of application. 1st time open this application by user is difficult because user used first time this application.
+Zeeshan mirza working on technical support. As compare to other user zeeshan mirza used easily this application. And attracting the user this application is multiple theme because every person think different to other user. And popup notification show to notification about the robot working. 
 
 ## Story Board ##
 

@@ -9,9 +9,9 @@ StdID | Name
 ## Task Finalization ##
 
 These are 2 tasks that we implement in our application .
-## Feature Selecting: ## 
+### Feature Selecting: ### 
 In this task we have to select feature what we want to do.Basically it is our main screen. 
-## Wash Clothes: ##
+### Wash Clothes: ###
 In this task we can wash clothes through our robot.
 
 ## Need Finding ##

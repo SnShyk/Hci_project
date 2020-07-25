@@ -39,9 +39,9 @@ playing cricket
 ### Goals ###
 To gain new skills and explore the world around him, by build things and takings things apart
 ### Frustrations ### 
-●	Does not want to wait long in queues 
-●	Does not want slow internet 
-●	Speaking with everyone in their organization
+###### ●	Does not want to wait long in queues ######
+###### ●	Does not want slow internet ######
+###### ●	Speaking with everyone in their organization ######
 
 ### Bio ###
 Zeeshan has been working in technical support for the past five years and loves it. He is very tech savvy and enjoys helping others. When there's a problem, he always prefers to deal with clients personally. He can find solutions easily.

@@ -1,7 +1,7 @@
 # Phase 2: Narowing down the Application #
 # HCI 104497: Smart Home Robot #
 ### PROJECT MEMBERS ###
-StdID | Name
+STD_ID | Name
 ------------ | -------------
 **62558** | **Ahsan Sheikh** <!--this is the group leader in bold-->
  63004 | Shaikh Bilal Ahmed

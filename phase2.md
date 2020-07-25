@@ -26,27 +26,27 @@ In this task we can wash clothes through our robot.
 ![WhatsApp Image 2020-07-24 at 4 09 36 PM (5)](https://user-images.githubusercontent.com/42110216/88386715-6c29fb80-cdca-11ea-850a-d16af53d6a9b.jpeg)
 ![WhatsApp Image 2020-07-24 at 4 09 36 PM (6)](https://user-images.githubusercontent.com/42110216/88386721-6f24ec00-cdca-11ea-8eb6-649ad9b60c46.jpeg)
 
-## Personas ##
+# Personas #
 ## persona 1 ##
-## Name: ##		
+### Name: ###		
 Zeeshan Mirza
-## Age:	## 	
+### Age:	### 	
 30
-## Job: ##		
+### Job: ###		
 Electrical Engineer
-## Hobbies: ##          
+### Hobbies: ###          
 playing cricket
-## Goals ##
+### Goals ###
 To gain new skills and explore the world around him, by build things and takings things apart
-## Frustrations ## 
+### Frustrations ### 
 ●	Does not want to wait long in queues 
 ●	Does not want slow internet 
 ●	Speaking with everyone in their organization
 
-## Bio ##
+### Bio ###
 Zeeshan has been working in technical support for the past five years and loves it. He is very tech savvy and enjoys helping others. When there's a problem, he always prefers to deal with clients personally. He can find solutions easily.
 
-## User Review ## 
+### User Review ### 
 Q1. Do you know any home controlling robot application?
 A.	No, I don’t know any such type of application 
 
@@ -62,16 +62,16 @@ A.	Robot can move manually through application, user have full control on robots
 Q5. Will home robot application is helpful?
 A.	In my opinion it will help a lot for house wives and for those who are frustrated to do home tasks  
 
-## Problems ##
+### Problems ###
 ●	Complex GUI
 ●	Hard to find controls 
 ●	Use more battery power 
 ●	Notification not working properly 
-## Suggestion ## 
+### Suggestion ### 
 ●	large application font size
 ●	Logging only one time not again and again
 ●	Application have adjustable theme
-## Feedback ##
+### Feedback ###
 ●	application runs without Wi-Fi
 ●	robots will sync automatically when application start
 ●	robots understand voice command 

@@ -233,6 +233,58 @@ A.	Yes, off course if this application is launched there are many people using i
 ●	view robot location 
 ●	application show notification
 
+## Persona 5 ## 
+### Age: ###
+58
+### Job: ###
+lawyer 
+### Hobbies: ###
+reading books 
+### Goals ###
+●	win every case in court
+●	want to become well-known lawyer  
+### Frustrations ###
+●	communicate with illiterate people
+●	take cases from customer                                                                                               
+### Bio ###
+Mr. Riaz is a lawyer by profession and does not highly aware with IT world he uses his basic application on his smart phone such as face book and messaging app
+User Review 
+Q1. Do you know any home controlling robot application?
+A.	No, I have not heard about these application 
+
+Q2. Are you using any home robot controlling application?
+A.	Sorry not using any of them
+ 
+Q3. Which type of application you expected?
+A.	Application is attractive and good design; fonts are visible and application notify us if somethings bad happens with robots or robots do unwanted or harm full activities 
+
+Q4. Which type of feature you want that application must have?
+A.
+Simple GUI 
+Attractive theme 
+Robots controls manually/automatically
+Application use voice command/ text command 
+Q5. Will home robot application be helpful?
+A.	Yes, this application is helpful for everyone and might be entertaining for those who never see robots it real life  
+
+ ### Problems ###
+●	Hard to understand 
+●	Hard to install 
+●	Robot needs manual sync 
+
+### Suggestion ###
+●	application is easy to understand 
+●	GUI is must be simple
+●	Easy to install
+●	No need to configure robot manually
+●	Robots automatically connected with application
+●	Robot works according to controller 
+### Feedback ###
+●	use sharp colors 
+●	Small font 
+●	Use low Battery consumption
+
+
 
 ## Scenarios ##
 ### Scenario 1 :- ###

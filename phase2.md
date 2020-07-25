@@ -63,18 +63,18 @@ Q5. Will home robot application is helpful?
 A.	In my opinion it will help a lot for house wives and for those who are frustrated to do home tasks  
 
 ### Problems ###
-●	Complex GUI
-●	Hard to find controls 
-●	Use more battery power 
-●	Notification not working properly 
+###### ●	Complex GUI ######
+###### ●	Hard to find controls ######
+###### ●	Use more battery power ###### 
+###### ●	Notification not working properly ######
 ### Suggestion ### 
-●	large application font size
-●	Logging only one time not again and again
-●	Application have adjustable theme
+###### ●	large application font size ######
+###### ●	Logging only one time not again and again ######
+###### ●	Application have adjustable theme ######
 ### Feedback ###
-●	application runs without Wi-Fi
-●	robots will sync automatically when application start
-●	robots understand voice command 
+###### ●	application runs without Wi-Fi ######
+###### ●	robots will sync automatically when application start ######
+###### ●	robots understand voice command ######
 
 ## persona 2 ##
 
@@ -88,11 +88,11 @@ student
 reading books
 
 ### Goals ###
-●	To measure multiple aspects of life more scientifically 
-●	Gather more information which help her to start good career  
+###### ●	To measure multiple aspects of life more scientifically ######
+###### ●	Gather more information which help her to start good career ######
 ### Frustrations ###
-●	Does not want to wait long in queues 
-●	Does not want slow internet 
+###### ●	Does not want to wait long in queues ###### 
+###### ●	Does not want slow internet ######
                                                                                        
 ### Bio ###
 Fatima is a master level student she is not do any job yet, she is very active in social media and aware about technologies and quick learner  
@@ -113,20 +113,20 @@ Q5. Will home robot application be helpful?
 A.	Yes, this will be helpful in future 
  
   ### Problems ###
-●	Take long time to start 
-●	Problem with syncing robots
-●	Robots not responsive 
+###### ●	Take long time to start ######
+###### ●	Problem with syncing robots ######
+###### ●	Robots not responsive ######
 ### Suggestion ###
-●	application take less time to start 
-●	application works efficiently with robots
-●	robots are highly responsive 
-●	robots' proper sync with give commands
-●	application must be password protected 
-●	chatting with robots
+###### ●	application take less time to start ######
+###### ●	application works efficiently with robots ######
+###### ●	robots are highly responsive ######
+###### ●	robots' proper sync with give commands ######
+###### ●	application must be password protected ######
+###### ●	chatting with robots ######
 ### Feedback ### 
-●	application not use more power consumption
-●	application must have any live coverage option
-●	runs on any device such as tablets, ios, android 
+###### ●	application not use more power consumption ######
+###### ●	application must have any live coverage option ######
+###### ●	runs on any device such as tablets, ios, android ######
 
 ## persona 3 ##
 
@@ -139,11 +139,11 @@ Business
 ### Hobbies: ###
 cooking
 ### Goals ###
-●	A task that need to be complete 
-●	A life goal to be reached   
+###### ●	A task that need to be complete ###### 
+###### ●	A life goal to be reached ######
 ### Frustrations ###
-●	The obstacle that prevent from achieving their goal
-●	The product or service that currently not exits 
+###### ●	The obstacle that prevent from achieving their goal ######
+###### ●	The product or service that currently not exits ######
                                                                                      
 ### Bio ###
 Kamran has his own business he run business on his own he is not use application very much he is simple and want every-thing simple and easy to use he is not aware with technologies too much  
@@ -164,19 +164,19 @@ Q5. Will home robot application be helpful?
 A.	Maybe helpful for lazy peoples 
 
 ### Problems ###
-●	Hard GUI
-●	Robot did not cook
-●	Voice command not working 
-●	Application crashes 
+###### ●	Hard GUI ######
+###### ●	Robot did not cook ######
+###### ●	Voice command not working ###### 
+###### ●	Application crashes ######
 ### Suggestion ###
-●	application have simple interface
-●	robots will help him while he is cooking
-●	robots understand voice command 
-●	application runs smoothly
+###### ●	application have simple interface ######
+###### ●	robots will help him while he is cooking ######
+###### ●	robots understand voice command ######
+###### ●	application runs smoothly ######
 ### Feedback ###
-●	application must use proper formatting
-●	compatibility issues
-●	Application crashes 
+###### ●	application must use proper formatting ######
+###### ●	compatibility issues ######
+###### ●	Application crashes ######
 
  ## Persona 4 ##
  ### Name: ###
@@ -188,12 +188,12 @@ Business
 ### Hobbies: ###
 playing card, football
 ### Goals ###
-●	I enjoyed thinking outside of the box 
-●	Want to make a name for myself
+###### ●	I enjoyed thinking outside of the box ######
+###### ●	Want to make a name for myself ######
 
 ### Frustrations ###
-●	Explanation is hard word 
-●	Advertisement while watching video
+###### ●	Explanation is hard word ######
+###### ●	Advertisement while watching video ######
 ### Bio ###
 Bakhtiyar is social active person which love to post any useful information on social media. He knows about computer technologies he has a problem solver personality
 User Review
@@ -207,31 +207,31 @@ Q3. Which type of application you expected?
 A.	If there is an application so the application must use simple GUI and all basic function to control a robot and also have live recording option by which we can easily track robot's current location 
 
 Q4. Which type of feature you want that application must have?
-●	Application will be secure 
-●	Application use less power 
-●	Robots sync properly with application
-●	Robots work according to application's command 
-●	Robot listen user voice command and work accordingly 
+###### ●	Application will be secure ######
+###### ●	Application use less power ######
+###### ●	Robots sync properly with application ######
+###### ●	Robots work according to application's command ######
+###### ●	Robot listen user voice command and work accordingly ######
 
 Q5. Will home robot application be helpful?
 A.	Yes, off course if this application is launched there are many people using it and this application help them and relax them 
 
 ### Problems ###
-●	Complex GUI
-●	Robots have not any live update  
-●	Use more battery power 
+###### ●	Complex GUI ######
+###### ●	Robots have not any live update ######
+###### ●	Use more battery power ######
 
 ### Suggestion ###
-●	GUI is must be simple 
-●	Robots have live camera option
-●	Robots will notify when task completed
-●	Application must have separate controller for each robot
-●	robots understand voice command 
+###### ●	GUI is must be simple ######
+###### ●	Robots have live camera option ######
+###### ●	Robots will notify when task completed ######
+###### ●	Application must have separate controller for each robot ######
+###### ●	robots understand voice command ######
 ### Feedback ###
-●	application use proper color 
-●	configure with robot
-●	view robot location 
-●	application show notification
+###### ●	application use proper color ######
+###### ●	configure with robot ######
+###### ●	view robot location ######
+###### ●	application show notification ######
 
 ## Persona 5 ## 
 ### Age: ###
@@ -241,11 +241,11 @@ lawyer
 ### Hobbies: ###
 reading books 
 ### Goals ###
-●	win every case in court
-●	want to become well-known lawyer  
+###### ●	win every case in court ######
+###### ●	want to become well-known lawyer ######
 ### Frustrations ###
-●	communicate with illiterate people
-●	take cases from customer                                                                                               
+###### ●	communicate with illiterate people ######
+###### ●	take cases from customer ######                                                                                            
 ### Bio ###
 Mr. Riaz is a lawyer by profession and does not highly aware with IT world he uses his basic application on his smart phone such as face book and messaging app
 User Review 
@@ -268,21 +268,21 @@ Q5. Will home robot application be helpful?
 A.	Yes, this application is helpful for everyone and might be entertaining for those who never see robots it real life  
 
  ### Problems ###
-●	Hard to understand 
-●	Hard to install 
-●	Robot needs manual sync 
+###### ●	Hard to understand ######
+###### ●	Hard to install ######
+###### ●	Robot needs manual sync ######
 
 ### Suggestion ###
-●	application is easy to understand 
-●	GUI is must be simple
-●	Easy to install
-●	No need to configure robot manually
-●	Robots automatically connected with application
-●	Robot works according to controller 
+###### ●	application is easy to understand ######
+###### ●	GUI is must be simple ######
+###### ●	Easy to install ######
+###### ●	No need to configure robot manually ######
+###### ●	Robots automatically connected with application ######
+###### ●	Robot works according to controller ######
 ### Feedback ###
-●	use sharp colors 
-●	Small font 
-●	Use low Battery consumption
+###### ●	use sharp colors ######
+###### ●	Small font ######
+###### ●	Use low Battery consumption ######
 
 
 

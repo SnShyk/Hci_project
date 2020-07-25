@@ -295,6 +295,10 @@ Zeeshan mirza working on technical support. As compare to other user zeeshan mir
 
 In this Case User “Fatima” is well educated women. Completed graduation and very active to Social Media and awareness to anything. And to know about technologies. And easy to learn any type of technology. And Fatima thinking different to other users. In this opinion only update 1 thing. Application used low battery consumption because android used feel free to absorb the battery. Fatima opinion this application is very helpful in future.
 
+### Scenario 3 :- ###
+
+In this case “kamran” is businessman and invest time in own business. Not update yet any type of technology. This user attract this application Is very difficult because user less time to used this type of application. In user opinion this application tools is to be used easily to user. And this type of user used to voice controller to control robot and interface is simple and application running Smoothly.
+
 ## Story Board ##
 
 ![story board 1](https://user-images.githubusercontent.com/42110216/88389425-f1fc7580-cdcf-11ea-9e31-a07ccb8d3c06.png)

@@ -25,6 +25,16 @@ Many other questions.
 # Prototyping #
 Develop low fidelity prototypes for each of the 2 disgns selected above. 
 
+## WireFrames ##
+
+
+## Physical Prototypes ## 
+
+
+## Window Navigation Transition Hierarchy ##
+
+#### ![final](https://user-images.githubusercontent.com/56068559/88839263-4189d980-d1f4-11ea-8468-7af17d68850b.jpg) ####
+
 
 ##Evaluation##
 Get the prototypes evaluated quickly by someone in your family or circle.  
